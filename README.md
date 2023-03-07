@@ -6,5 +6,3 @@ Dataset used: https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek
 This is a test
 
 This is a test by Lazzo23
-
-This is a test by MatBa
