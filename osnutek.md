@@ -1,5 +1,5 @@
 # Razmerje Slovencev z avtomobili
-Oskar Kocijančič, Miha Lazić, Matija Bajt, David Čadež
+Oskar Kocjančič, Miha Lazić, Matija Bajt, David Čadež
 
 ## Opis problema
 V današnjem svetu je vloga avtomobila pomembna kot še nikoli prej. Vsako jutro se usedemo v avto in odpeljemo v službo, v trgovino, na obisk k sorodnikom, pripeljemo nazaj domov, potem pa spet nekam drugam. Človek si življenja brez njega enostavno ne more več predstavljati.  
