@@ -4,7 +4,7 @@ Oskar Kocjančič, Miha Lazić, Matija Bajt, David Čadež
 ## Opis problema
 V današnjem svetu je vloga avtomobila pomembna kot še nikoli prej. Vsako jutro se usedemo v avto in odpeljemo v službo, v trgovino, na obisk k sorodnikom, pripeljemo nazaj domov, potem pa spet nekam drugam. Človek si življenja brez njega enostavno ne more več predstavljati.  
 Pri tem problemu ne zaostajamo niti mi, Slovenci, saj [statistika](https://siol.net/avtomoto/novice/peto-mesto-v-evropi-tako-odvisni-smo-slovenci-od-avtomobilov-544642) pravi, da  po slovenskih cestah vozi kar 598 avtomobilov na 1000 ljudi, kar nas uvršča na samo peto mesto izmed vseh članic Evropske unije.
-Iz zgornjega dejstva lahko sklepamo, da med Slovencem in njegovim avtomobilom obstaja neko razmerje, ki smo ga poskušali na najrazličnejše načine analizirati (več v razdelku [Cilji in vprašanja](#cilji-in-vprašanja)).  
+Iz zgornjega dejstva lahko sklepamo, da med Slovencem in njegovim avtomobilom obstaja neko razmerje, ki smo ga poskušali na najrazličnejše načine analizirati.
 
 ## Opis podatkov
 Osnova projektne naloge je bila [**Evidenca registriranih vozil**](https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek-stanja), ki vsebuje malo morje podatkov o vseh registriranih vozilih *(znamka, število prevoženih kilometrov, moč motorja, ...)* v določenem časovnem obdobju.
