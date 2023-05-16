@@ -44,7 +44,6 @@ Občina z najnižjo povprečno starostjo lastnika avtomobilav je občina Cerkven
 ![image](https://user-images.githubusercontent.com/75141731/232854272-abefee86-967d-4372-a943-06608b4e481c.png)
 
 ### Povprečna starost avtomobila
-
 ![image](https://user-images.githubusercontent.com/75141731/232854462-5529f909-40e9-4c74-93d8-bf714e384096.png)
 
 Občina z najvišjo povprečno starostjo avtomobila je občina Kanal, s povprečno starostjo `14.33` leta. 
@@ -75,7 +74,7 @@ Iz zgornje vizualizacije lahko razberemo, da se najstarejši vozniki nahajajo na
 
 ### Popularna znamka avtomobila
 
-Najpopularnejša znamka avtomobila v Sloveniji je `Volkswagen`. Najverjetneje zaupanje tej znamki izhaja iz časov Jugoslavije, ko je po slovenskih cestav vozil Golf. Sledi ji francoski `Renault`, ki ga radi vozijo vozniki iz Novega mesta in okolice, kjer se nahaja proizvodnja le-tega. Osamelca sta občini Trzin in Podvelka, kjer prevladuje znamka `BMW` in `Ford`. 
+Najpopularnejša znamka avtomobila v Sloveniji je `Volkswagen`. Najverjetneje zaupanje tej znamki izhaja iz časov Jugoslavije, ko je po slovenskih cestah vozil Golf. Sledi ji francoski `Renault`, ki ga radi vozijo vozniki iz Novega mesta in okolice, kjer se nahaja proizvodnja le-tega. Osamelca sta občini Trzin in Podvelka, kjer prevladuje znamka `BMW` in `Ford`. 
 
 ### Povprečna starost avtomobila
 
